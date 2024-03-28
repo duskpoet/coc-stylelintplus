@@ -150,7 +150,7 @@
     "vscode-languageserver-protocol": "~3.16.0"
   },
   "dependencies": {
-    "stylelint-lsp": "~1.2.1",
+    "stylelint-lsp": "duskpoet/stylelint-lsp",
     "tslib": "^2.0.3"
   }
 }
